@@ -1,11 +1,11 @@
 # Tinder-Automation-Bot
 The Tinder Automation Bot, This script automates Tinder using Selenium WebDriver, allowing you to log in with Facebook, handle CAPTCHA manually, and swipe right continuously with ease.
 
-##✨ Features
+## ✨ Features
 
 ✅ Automated Tinder Login via Facebook.✅ Seamless Window Switching between Tinder & Facebook.✅ Handles CAPTCHA Manually (User Input Required).✅ Continuous Right Swiping for hands-free operation.
 
-##📌 Prerequisites
+## 📌 Prerequisites
 
   🔹 1. Install Dependencies
   
@@ -32,7 +32,7 @@ The Tinder Automation Bot, This script automates Tinder using Selenium WebDriver
   export EMAIL=your_email@example.com
   export PASSWORD=your_facebook_password
 
-##🚀 How to Run the Script
+## 🚀 How to Run the Script
 
   1️⃣ Open a terminal or command prompt.2️⃣ Run the script:
   
@@ -40,7 +40,7 @@ The Tinder Automation Bot, This script automates Tinder using Selenium WebDriver
   
   3️⃣ Manually complete CAPTCHA when prompted.4️⃣ Watch as the bot swipes left continuously! 🎉
 
-##🛠 Code Workflow
+## 🛠 Code Workflow
 
   📌 Opens Tinder & clicks the login button.📌 Chooses Facebook Login & switches to the Facebook window.📌 Enters Credentials & submits the login form.📌 Waits for Manual CAPTCHA Completion.📌 Handles Pop-ups (Location & Notifications).📌 Starts Swiping Right Continuously! 🔄
   
@@ -58,6 +58,6 @@ The Tinder Automation Bot, This script automates Tinder using Selenium WebDriver
   
   ✅ Ensure ChromeDriver version matches your Chrome browser version.
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 
   This project is for educational purposes only. Use responsibly. ❤️
